@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RegressionBuilder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChiCriticalPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ChiCritical.xml</Value>
+    </Setting>
+    <Setting Name="StudentsTDistributionPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">StudentsTDistribution.xml</Value>
+    </Setting>
+    <Setting Name="DataBaseMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XmlDataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xamarin.data2.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
