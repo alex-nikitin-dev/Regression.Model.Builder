@@ -20,3 +20,9 @@ The purpose of this software is to automate the processes of constructing variou
 - Save to a file the calculated normalization data (normalized values and Johnson normalization parameters).
 - Load from a file the calculated normalization data (normalized values and Johnson normalization parameters).
 - Load from a file the initial data.
+
+![Johnson Normalized](https://github.com/alex-nikitin-dev/Regression.Model.Builder/assets/44620522/e5e5a1a9-5cc7-4ab1-9631-c2cca5d07c77)
+
+![Using](https://github.com/alex-nikitin-dev/Regression.Model.Builder/assets/44620522/e55fb5b8-5930-4a70-97c8-cd9cc0742fbb)
+
+
